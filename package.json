@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Seth Yeack",
+	"description": "A project that teaches me what my staff actually do",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
